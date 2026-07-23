@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou o Raphael Santos 👋
 
-<!--
-**RaphaelSantos01/RaphaelSantos01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor e Analista de Sistemas com formação em Análise e
+Desenvolvimento de Sistemas pela FATEC Tatuí e curso técnico em
+Desenvolvimento de Sistemas pela ETEC Sales Gomes.
 
-Here are some ideas to get you started:
+Tenho experiência prática com SQL, PL/SQL, Python, Flutter e desenvolvimento
+de aplicações web e mobile. Também possuo experiência com bancos de dados,
+integração de informações e ferramentas de desenvolvimento assistido por IA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+- Python
+- SQL e PL/SQL
+- Flutter e Dart
+- JavaScript e TypeScript
+- PostgreSQL e MySQL
+- Git e GitHub
+- Firebase
+- Linux
+
+## Projetos em destaque
+
+### AMICIS
+
+Plataforma web voltada à centralização de serviços para o bem-estar de animais
+de estimação.
+
+[Ver repositório](LINK_DO_REPOSITORIO)
+
+### Aplicativo de inclusão no meio rural
+
+Aplicativo desenvolvido para conectar serviços e usuários localizados em áreas
+rurais.
+
+[Ver projeto](LINK_DO_REPOSITORIO)
+
+## Atualmente
+
+- Aprimorando meus conhecimentos em desenvolvimento backend e full stack
+- Desenvolvendo projetos para meu portfólio
+- Buscando oportunidades como Desenvolvedor Júnior ou Analista de Sistemas
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/raphael-santos-a354292b7
+- E-mail: raphael.afs06@gmail.com
