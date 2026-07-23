@@ -26,14 +26,13 @@ integração de informações e ferramentas de desenvolvimento assistido por IA.
 Plataforma web voltada à centralização de serviços para o bem-estar de animais
 de estimação.
 
-[Ver repositório](LINK_DO_REPOSITORIO)
+[Ver repositório](https://github.com/RaphaelSantos01/amicis)
 
-### Aplicativo de inclusão no meio rural
+### Aplicativo de Roteiros Turísticos
 
-Aplicativo desenvolvido para conectar serviços e usuários localizados em áreas
-rurais.
+Aplicativo desenvolvido para centralizar pontos turísticos, comércios e outros negócios.
 
-[Ver projeto](LINK_DO_REPOSITORIO)
+[Ver projeto](https://github.com/RaphaelSantos01/myroute)
 
 ## Atualmente
 
